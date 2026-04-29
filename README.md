@@ -18,3 +18,12 @@ The article explains why modern banking systems are shifting toward cloud-native
 - [Top Cybersecurity Companies](https://perfectfirms.com/top-cybersecurity-companies)
 - [Top ReactJS Development Companies](https://perfectfirms.com/top-reactjs-development-companies)
 - [Top Node.js Development Companies](https://perfectfirms.com/top-nodejs-development-companies)
+- [Top Verified Go Companies](https://perfectfirms.com/top-verified-companies/go)
+- [Hire Top Rated Golang Companies](https://perfectfirms.com/hire-top-rated-companies/golang)
+- [Hire Top Rated Fintech Companies](https://perfectfirms.com/hire-top-rated-companies/fintech)
+- [Hire Top Leading Microservices Companies](https://perfectfirms.com/hire-top-leading-companies/microservices)
+- [Hire Top Trusted Event Sourcing Companies](https://perfectfirms.com/hire-top-trusted-companies/event-sourcing)
+- [Hire Top Trusted Neobank Companies](https://perfectfirms.com/hire-top-trusted-companies/neobank)
+- [Hire Top Rated Security Companies](https://perfectfirms.com/hire-top-rated-companies/security)
+
+   
